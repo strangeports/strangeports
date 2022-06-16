@@ -4,6 +4,9 @@
 <a href="https://strangeports.com"><p align="center"><img width="500" src="strangeports-logo-retina.png" alt="Strangeports Logo"></a>
 
 <HR>
+
+  [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
 <BR>  
   
 ## &#x26f5; Hey! Thanks for stopping by!
