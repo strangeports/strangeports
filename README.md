@@ -56,6 +56,11 @@ Here are some good places to start:
 - [Will This Old Laptop Do?](https://strangeports.com)
 - [I Don't Have Time To Build This Stuff](https://strangeports.com)
 <!--- BLOG-POST-LIST:END --->
+  
+<BR>
+  
+## &#x1f453; A note about Licensing
+Everything Strangeports does will be licensed under the MIT license, which just guarantees that you can do whatever you want with it. However, many of our projects are collections of other software that may have more restrictive licenses. We will do our best to provide a Bill of Materials and highlight what licenses *they* use. If you feel we are not compliant in some way, **please bring it to our attention**.
 
 <BR>
   
